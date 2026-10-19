@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1100" viewBox="0 0 1000 1100">
+  <!-- Original concept illustration, not a photograph of real work. CC0. -->
+  <rect width="1000" height="1100" fill="#d9d9c9"/>
+  <path d="M0 0H1000V1100H0Z" fill="none" stroke="#bdc1ae" stroke-width="60"/>
+  <g transform="translate(110 155) rotate(-9 400 400)">
+    <path d="M10 20H685V815H10Z" fill="#a9ad99" opacity=".3"/>
+    <path d="M0 0H670V800H0Z" fill="#f3eddd"/>
+    <path d="M30 30H640V770H30Z" fill="none" stroke="#dfd6c0"/>
+    <path d="M330 0V800M0 400H670" stroke="#e5ddcb"/>
+  </g>
+  <g transform="translate(280 260) rotate(10 245 280)">
+    <rect x="12" y="18" width="470" height="560" fill="#656950" opacity=".18"/>
+    <rect width="470" height="560" fill="#a34730"/>
+    <path d="M24 0V560M48 0V560M72 0V560M96 0V560M120 0V560M144 0V560M168 0V560M192 0V560M216 0V560M240 0V560M264 0V560M288 0V560M312 0V560M336 0V560M360 0V560M384 0V560M408 0V560M432 0V560M456 0V560" stroke="#c27053" stroke-width="2"/>
+    <path d="M0 24H470M0 48H470M0 72H470M0 96H470M0 120H470M0 144H470M0 168H470M0 192H470M0 216H470M0 240H470M0 264H470M0 288H470M0 312H470M0 336H470M0 360H470M0 384H470M0 408H470M0 432H470M0 456H470M0 480H470M0 504H470M0 528H470" stroke="#7f3826" stroke-width="2"/>
+    <path d="M70 440C45 350 80 290 150 300C220 310 192 400 235 409C290 420 250 210 335 190C400 176 410 270 383 320" fill="none" stroke="#f1dfb7" stroke-width="9" stroke-linecap="round"/>
+    <path d="M33 25H437V535H33Z" fill="none" stroke="#edc49b" stroke-width="3" stroke-dasharray="9 10"/>
+  </g>
+  <path d="M194 862C310 740 402 1040 580 944C700 880 726 909 792 948" fill="none" stroke="#777f62" stroke-width="5" stroke-linecap="round"/>
+  <g transform="translate(730 100) rotate(22)"><rect x="0" y="0" width="44" height="280" rx="8" fill="#c6ae7d"/><rect x="-10" y="24" width="64" height="214" rx="14" fill="#e9dbb8"/><path d="M-7 46H52M-7 60H52M-7 74H52M-7 88H52M-7 102H52M-7 116H52M-7 130H52M-7 144H52M-7 158H52M-7 172H52M-7 186H52M-7 200H52M-7 214H52" stroke="#c1ac83" stroke-width="3"/></g>
+</svg>

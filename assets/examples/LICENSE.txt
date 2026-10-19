@@ -1,0 +1,8 @@
+Luse concept illustration (luse-concept.svg and its PNG rendition)
+Original artwork created for the fictional outreach_landing_builder example.
+This is concept artwork, not a photograph or evidence of real customer work.
+
+To the extent possible under law, the authors have dedicated this artwork to
+the public domain under CC0 1.0 Universal.
+License: https://creativecommons.org/publicdomain/zero/1.0/
+No attribution is required. No warranty is provided.

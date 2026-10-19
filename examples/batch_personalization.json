@@ -1,0 +1,12 @@
+{
+  "demo-batch-transport": {
+    "niche": "passenger_transport",
+    "brand_name": "Ուղի — հորինված օրինակ",
+    "hero_title": "Երևան–Թբիլիսի ուղևորություն․ սկսեք այստեղից",
+    "route": {"from": "Երևան", "to": "Թբիլիսի"},
+    "accent_color": "#c6a469"
+  },
+  "demo-batch-detailing": {
+    "niche": "detailing_cleaning"
+  }
+}
